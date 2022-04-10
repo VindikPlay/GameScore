@@ -7,10 +7,24 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="CustomControlls\WindowBorder.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\regWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CustomControlls\WindowBorder.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Dictionary1.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="views\regWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Артём Токарев\\GameStore\\GameStore\\GameStore.csproj",
+      "projectUniqueName": "C:\\ученики\\vindik\\GameScore\\GameStore\\GameStore.csproj",
       "projectName": "GameStore",
-      "projectPath": "D:\\Артём Токарев\\GameStore\\GameStore\\GameStore.csproj",
+      "projectPath": "C:\\ученики\\vindik\\GameScore\\GameStore\\GameStore.csproj",
       "packagesPath": "C:\\Users\\Win10m\\.nuget\\packages\\",
-      "outputPath": "D:\\Артём Токарев\\GameStore\\GameStore\\obj\\",
+      "outputPath": "C:\\ученики\\vindik\\GameScore\\GameStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

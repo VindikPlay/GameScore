@@ -25,3 +25,34 @@ D:\Артём Токарев\GameStore\GameStore\obj\Debug\net5.0-windows\App.ba
 D:\Артём Токарев\GameStore\GameStore\bin\Debug\net5.0-windows\MaterialDesignColors.dll
 D:\Артём Токарев\GameStore\GameStore\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
 D:\Артём Токарев\GameStore\GameStore\obj\Debug\net5.0-windows\GameStore.csproj.CopyComplete
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.csproj.AssemblyReference.cache
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\Dictionary1.baml
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\App.g.cs
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore_MarkupCompile.cache
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore_MarkupCompile.lref
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.dll
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\ref\GameStore.dll
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.pdb
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\GameStore.exe
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\GameStore.deps.json
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\GameStore.runtimeconfig.json
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\GameStore.runtimeconfig.dev.json
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\GameStore.dll
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\ref\GameStore.dll
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\GameStore.pdb
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\views\MainWindow.g.cs
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\App.baml
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\views\MainWindow.baml
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.g.resources
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.AssemblyInfoInputs.cache
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.AssemblyInfo.cs
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.csproj.CoreCompileInputs.cache
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.csproj.CopyComplete
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\GameStore.genruntimeconfig.cache
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\CustomControlls\WindowBorder.g.cs
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\CustomControlls\WindowBorder.baml
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\views\regWindow.g.cs
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\views\regWindow.baml

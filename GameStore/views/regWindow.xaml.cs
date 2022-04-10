@@ -1,5 +1,4 @@
-﻿using GameStore.CustomControlls;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,22 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace GameStore.views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Логика взаимодействия для regWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class regWindow : Window
     {
-        public MainWindow()
+        public regWindow()
         {
             InitializeComponent();
-            WindowBorder windowBorder = new WindowBorder(this);
-            windowBorder.SetValue(Grid.RowProperty, 0);
-            maingrid.Children.Add(windowBorder);
         }
     }
 }
