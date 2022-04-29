@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GameStore.CustomControlls;
+using GameStore.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,11 +19,14 @@ namespace GameStore.views
     /// <summary>
     /// Логика взаимодействия для regWindow.xaml
     /// </summary>
-    public partial class regWindow : Window
+    public partial class RegWindow : Window
     {
-        public regWindow()
+        public RegWindow()
         {
             InitializeComponent();
+            WindowBorder windowBorder = new WindowBorder(this);
+            windowBorder.SetValue(Grid.RowProperty, 0);
+            maingrid.Children.Add(windowBorder);
         }
     }
 }

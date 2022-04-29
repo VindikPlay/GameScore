@@ -5,12 +5,12 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:GameStore.CustomControlls"
              mc:Ignorable="d" 
-             d:DesignHeight="150" d:DesignWidth="800" Background="#FFEE84FF">
+             d:DesignHeight="40" d:DesignWidth="800" Background="#FFEE84FF">
 	<Grid x:Name="maingrid">
 		<Grid.ColumnDefinitions>
 			<ColumnDefinition Width="700*"/>
-			<ColumnDefinition Width="40*"/>
-			<ColumnDefinition Width="40*"/>
+			<ColumnDefinition Width="40"/>
+			<ColumnDefinition Width="40"/>
 			<ColumnDefinition Width="3*"/>
 		</Grid.ColumnDefinitions>
 		

@@ -1,4 +1,5 @@
 ﻿<Window x:Class="GameStore.views.MainWindow"
+		x:Name="mw"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -6,11 +7,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GameStore"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStyle="None">
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen">
 	<Grid x:Name="maingrid">
 		<Grid.RowDefinitions>
-			<RowDefinition Height="40*"/>
-			<RowDefinition Height="500*"/>
+			<RowDefinition Height="40"/>
+			<RowDefinition Height="410"/>
 		</Grid.RowDefinitions>
 
 		<Grid Grid.Row="1">
@@ -46,7 +47,8 @@
                     Content="log" FontSize="20" Cursor="Hand"/>
 				<Button Grid.Column="2"
                     Grid.Row="0"
-                    Content="Reg" FontSize="20"
+					Command="{Binding ChangeToRegWindow}"
+                    Content="Sing UP" FontSize="20"
                     x:Name="breg" FontFamily="Showcard Gothic" Cursor="Hand"/>
 			</Grid>
 		</Grid>
