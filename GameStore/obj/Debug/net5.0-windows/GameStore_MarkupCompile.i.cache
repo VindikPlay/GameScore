@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\ученики\vindik\GameScore\GameStore\App.xaml
-5-586290768
+6-2115986515
 
-172096733532
+18-1315740878
 1981974439778
-CustomControlls\WindowBorder.xaml;Dictionary1.xaml;views\MainWindow.xaml;views\regWindow.xaml;views\StoreWindow.xaml;
+CustomControlls\controllstore.xaml;CustomControlls\WindowBorder.xaml;Dictionary1.xaml;views\MainWindow.xaml;views\regWindow.xaml;views\StoreWindow.xaml;
 
-False
+True
 

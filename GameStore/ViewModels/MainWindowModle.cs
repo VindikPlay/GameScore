@@ -26,7 +26,19 @@ namespace GameStore.ViewModels
                     }));                   
             }                              
         }
-
+        private BaseCommands openStore;
+        public BaseCommands OpenStore
+        {
+            get
+            {
+                return openStore ??
+                    (openStore = new BaseCommands(obj => 
+                    {                      
+                        WindowsBuilder.ShowStoreWindow(); 
+                        CloseWindow();
+                    }));                   
+            }                              
+        }
         public void CloseWindow() => EventCloseWindow?.Invoke(this, EventArgs.Empty);
     }
 }

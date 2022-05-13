@@ -8,7 +8,7 @@
         xmlns:local="clr-namespace:GameStore"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen">
-	<Grid x:Name="maingrid">
+	<Grid x:Name="maingrid" RenderTransformOrigin="0.5,0.5">
 		<Grid.RowDefinitions>
 			<RowDefinition Height="40"/>
 			<RowDefinition Height="410"/>
@@ -44,7 +44,8 @@
                     Grid.Row="0"
                     x:Name="blogin"
                     FontFamily="Showcard Gothic"
-                    Content="log" FontSize="20" Cursor="Hand"/>
+                    Content="log" FontSize="20" Cursor="Hand"
+						Command="{Binding OpenStore}"/>
 				<Button Grid.Column="2"
                     Grid.Row="0"
 					Command="{Binding ChangeToRegWindow}"

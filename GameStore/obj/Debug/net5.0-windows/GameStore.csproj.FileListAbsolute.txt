@@ -73,3 +73,5 @@ C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\runtimes\u
 C:\ученики\vindik\GameScore\GameStore\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\views\StoreWindow.g.cs
 C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\views\StoreWindow.baml
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\CustomControlls\controllstore.g.cs
+C:\ученики\vindik\GameScore\GameStore\obj\Debug\net5.0-windows\CustomControlls\controllstore.baml

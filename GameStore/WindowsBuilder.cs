@@ -28,7 +28,7 @@ namespace GameStore
             window.Show();
         }
 
-        public static void ShowStore()
+        public static void ShowStoreWindow()
         {
             StoreWindow store = new StoreWindow();
             var viewModel = new StoreWindowModle();
